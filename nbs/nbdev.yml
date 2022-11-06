@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "life_of_py"
+  site-url: "https://maddytae.github.io/life_of_py"
+  description: "common utilities"
+  repo-branch: master
+  repo-url: "https://github.com/maddytae/life_of_py"
